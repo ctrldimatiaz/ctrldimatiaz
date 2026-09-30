@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome
 
 I am Software Developer with 8+ years of experience, primarily working with
 C#/.NET, backend systems, APIs, databases, and industrial integrations.
