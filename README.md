@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**ctrldimatiaz/ctrldimatiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Software Developer with 8+ years of experience, primarily working with
+C#/.NET, backend systems, APIs, databases, and industrial integrations.
 
-Here are some ideas to get you started:
+I am currently studying Mathematics at the University of Aveiro and
+expanding into Rust, cryptography, and zero-knowledge systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently exploring
+
+- 🦀 Rust
+- 🔐 Cryptography
+- 🧮 Zero-Knowledge Proofs
+- 📐 Interactive Proofs
+- 🌐 Distributed Systems
+
+### Projects
+
+- [Sum-Check Protocol](https://github.com/ctrldimatiaz/sumcheck)
+  - Implementation of the Sum-Check interactive proof protocol in Rust.
+
+- [Rust TCP Server](https://github.com/ctrldimatiaz/rust-tcpserver)
+  - Redis-like key-value server built to learn async Rust with Tokio.
+
+### Background
+
+- 💻 8+ years of professional software development
+- ⚙️ C# / .NET / Backend / Industry 4.0
+- 🏭 MES, PLC integration, OPC UA, MQTT
+- 🎓 Mathematics @ University of Aveiro
